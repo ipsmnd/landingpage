@@ -3,7 +3,7 @@
 
 A single-page website for **MND CODE**. It holds a copy-paste guide of 12 Claude prompts for landing page animations, a services overview, ready-made color palettes, and a downloadable Business Requirements Document (BRD).
 
-**Live page:** https://claude.ai/artifact/7tNxVkMhJhBD3hr1QUMbMv
+**Live page:** https://landingpage-ten-nu-31.vercel.app/
 
 ---
 
